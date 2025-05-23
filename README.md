@@ -79,13 +79,25 @@ src/
 - **Conditional Rendering:** Shows best product info and savings dynamically.
 - **Charts & Visualizations:** Use of `recharts` for both bar and line charts.
 
-## 📸 Screenshots (Add as needed)
+## 📸 Screenshots
 
-- ![Homepage](Screenshot 2025-05-23 091554.png)
-- ![Product Cards](Screenshot 2025-05-23 091617.png)(./Screenshot 2025-05-23 091753.png)
-- ![Price Comparison Chart](Screenshot 2025-05-23 091638.png)
-- ![Star Ratings](Screenshot 2025-05-23 091703.png)
-- ![Cart View](Screenshot 2025-05-23 091844.png)(./Screenshot 2025-05-23 091850.png)
+### 🏠 Homepage UI
+![Homepage](./Screenshot%202025-05-23%20091554.png)
+
+### 🧾 Product Cards
+![Product Card 1](./Screenshot%202025-05-23%20091617.png)
+![Product Card 2](./Screenshot%202025-05-23%20091753.png)
+
+### 📊 Price Comparison Chart
+![Price Comparison](./Screenshot%202025-05-23%20091638.png)
+
+### ⭐ Star Ratings
+![Star Ratings](./Screenshot%202025-05-23%20091703.png)
+
+### 🛒 Cart View
+![Cart View 1](./Screenshot%202025-05-23%20091844.png)
+![Cart View 2](./Screenshot%202025-05-23%20091850.png)
+
 
 
 
