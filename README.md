@@ -81,11 +81,11 @@ src/
 
 ## 📸 Screenshots (Add as needed)
 
-- ![Homepage](./Screenshot 2025-05-23 091554.png)
-- ![Product Cards](./Screenshot 2025-05-23 091617.png)(./Screenshot 2025-05-23 091753.png)
-- ![Price Comparison Chart](./Screenshot 2025-05-23 091638.png)
-- ![Star Ratings](./Screenshot 2025-05-23 091703.png)
-- ![Cart View](./Screenshot 2025-05-23 091844.png)(./Screenshot 2025-05-23 091850.png)
+- ![Homepage](Screenshot 2025-05-23 091554.png)
+- ![Product Cards](Screenshot 2025-05-23 091617.png)(./Screenshot 2025-05-23 091753.png)
+- ![Price Comparison Chart](Screenshot 2025-05-23 091638.png)
+- ![Star Ratings](Screenshot 2025-05-23 091703.png)
+- ![Cart View](Screenshot 2025-05-23 091844.png)(./Screenshot 2025-05-23 091850.png)
 
 
 
