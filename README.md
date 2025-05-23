@@ -58,18 +58,20 @@ This is a feature-rich **Online Shopping Web Application** built using **React.j
 | Recharts    | Charting library for visual analysis |
 | Font Awesome| Icons and star ratings               |
 
-## 🗂️ File Structure
-src/
-├── App.js # Main entry with layout
-├── Header.js # Top navigation and banner
-├── Homepage.js # Core homepage with category logic
-├── Category.js # Renders category sections
-├── Product.js # Displays individual product info
-├── Cart.js # Cart functionality
-├── StarRating.js # Component for rendering stars
-├── Footer.js # Page footer with links and branding
-├── index.css # Global styles
-└── Home.css # Custom styles for layout and visuals
+## 📂 Project Structure (`src/`)
+
+| File           | Description                      |
+|----------------|---------------------------------|
+| `App.js`       | Main entry with layout           |
+| `Header.js`    | Top navigation and banner        |
+| `Homepage.js`  | Core homepage with category logic|
+| `Category.js`  | Renders category sections        |
+| `Product.js`   | Displays individual product info |
+| `Cart.js`      | Cart functionality               |
+| `StarRating.js`| Component for rendering stars    |
+| `Footer.js`    | Page footer with links and branding |
+| `index.css`    | Global styles                   |
+| `Home.css`     | Custom styles for layout and visuals |
 
 ## 🧠 Key Concepts Used
 
